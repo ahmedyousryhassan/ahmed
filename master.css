@@ -1,0 +1,96 @@
+body{
+    position: absolute;
+    left: 30px;
+}
+.title{
+    background-color: rgb(160, 78, 78);
+    display: block;
+    width: 200px;
+    padding: 15px;
+    margin-left: 10px;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+a:hover{
+    text-decoration: none;
+    color: red;
+}
+.basic{
+    border: 1px solid #ccc;
+    width: 350px;
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+    background-color: blueviolet;
+  
+}
+span{
+    background-color: rgb(183, 105, 105);
+}
+.label{
+    color: white;
+    background-color: rgb(128, 0, 119);
+    padding: 5px;
+}
+.what{
+    background-color: rgb(151, 39, 39);
+    display: block;
+    width: 150px;
+    padding: 15px;
+    margin-left: 10px;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 300px;
+}
+.one{
+    background-color: #ccc;
+    width: 150px;
+}
+.last{
+    position: absolute;
+    left: 40%;
+    color: blue;
+    font-size: larger;
+    font-weight: bold;
+}
+.why{
+    background-color: rgb(151, 39, 39);
+    display: block;
+    width: 260px;
+    padding: 15px;
+    margin-left: 10px;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 150px;
+}
+.r{
+    color: white;
+    background-color: green;
+    width: 200px;
+    padding: 15px;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 300px;
+    
+}
+ul{
+    background-color: wheat;
+    padding: 10px;
+    list-style-position: inside;
+    list-style-type: disclosure-closed;
+    
+}
+.p{
+
+    color: rgb(53, 113, 19);
+    
+    font-weight: bold;
+}
+
